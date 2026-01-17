@@ -4,7 +4,7 @@ version       = "0.1.0"
 author        = "Harrison"
 description   = "Windows 10/11 Toast Notifications for Nim using WinRT"
 license       = "MIT"
-srcDir        = "."
+srcDir        = "src"
 
 # Dependencies
 
